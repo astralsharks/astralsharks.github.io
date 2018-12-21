@@ -31,14 +31,14 @@ markdown: kramdown
 # plugins:
 #   - jekyll-feed
 # remote_theme: jekyll-whiteglass
-# plugins:
-#   - jekyll-feed
-#   - jekyll-paginate
-#   - jekyll-sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# permalink: /:year/:month/:day/:title/
-# paginate_path: /posts/:num/
-# paginate: 5
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
 
 # jekyll-archives:
 #   enabled:
@@ -62,6 +62,3 @@ markdown: kramdown
 #   - vendor/ruby/
 
 theme: jekyll-theme-minimal
-
-theme: jekyll-theme-minimal
->>>>>>> 96f6613067dbf53d541d0cc8d76eb2bda9fac09f

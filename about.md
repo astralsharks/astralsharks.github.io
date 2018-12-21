@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-Hello, web-world. This is supposed to be my blog.  
+Hello, web-world. This is supposed to be my blog. 
 
 In the future, I want to make it suck less, but for now it will be generated with Jekyll due to my time lackage (personal laziness, procrastination, etc.)  
 

@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, web-world. This is supposed to be my blog.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the future, I want to make it suck less, but for now it will be generated with Jekyll due to my time lackage (personal laziness, procrastination, etc.)  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a little mess these days. This is what I represent in the last 2-3 (or even more?) months (I have suddenly deleted everything I've wrote here before, ugh, so I have to recover this):  
 
+- planning a lot of new things, getting excited about them and leaving them hanging, getting sad about it;
+- being constantly tired and done;
+- feeling sad about being a bad person;
+- not believing in myself;
+- spending days in bed;
+- unable to make simple decisions, never feeling right about them;
+- feeling anxious about everything and never relaxed;
 
-[jekyll-organization]: https://github.com/jekyll
+How can I fix it? Well, I've decided, that hosting a blog would make me feel better, haha.  
+We'll see. I hope, I'll keep tracking progress here.
+

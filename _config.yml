@@ -60,4 +60,8 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 theme: jekyll-theme-minimal
+
+theme: jekyll-theme-minimal
+>>>>>>> 96f6613067dbf53d541d0cc8d76eb2bda9fac09f

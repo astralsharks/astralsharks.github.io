@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-12-22T01:38:55+03:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">astralsharks</title>
+  
+
+  
+    <subtitle>Hope you don't mind me having a blog down here.  In case you don't know who I am or what is going  on down here - don't mind leaving and caring  your own, more important stuff.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">I think it’s working</title>
+      
+      
+      <link href="http://localhost:4000/2018/12/21/i-have-tried/" rel="alternate" type="text/html" title="I think it's working" />
+      
+      <published>2018-12-21T23:39:34+03:00</published>
+      <updated>2018-12-21T23:39:34+03:00</updated>
+      <id>http://localhost:4000/2018/12/21/i-have-tried</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/21/i-have-tried/">&lt;p&gt;I think, I’m getting how it works! Ok, this is great. I’ve spent a lot of time on trying to find out how to apply a Roboto Mono font and etc. And all I had to do was just to wait a little bit for changes to apply. Wow.&lt;br /&gt;
+I’ve finished my labs, created a blog (now I’ll customize it a bit) and have no power left on anything else. I’ll eat varenichki and go to sleep.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="misc" />
+      
+
+      
+
+      
+        <summary type="html">I think, I’m getting how it works! Ok, this is great. I’ve spent a lot of time on trying to find out how to apply a Roboto Mono font and etc. And all I had to do was just to wait a little bit for changes to apply. Wow. I’ve finished my labs, created a blog (now I’ll customize it a bit) and have no power left on anything else. I’ll eat varenichki and go to sleep.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">First post!</title>
+      
+      
+      <link href="http://localhost:4000/2018/12/21/welcome-to-jekyll/" rel="alternate" type="text/html" title="First post!" />
+      
+      <published>2018-12-21T18:39:34+03:00</published>
+      <updated>2018-12-21T18:39:34+03:00</updated>
+      <id>http://localhost:4000/2018/12/21/welcome-to-jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/21/welcome-to-jekyll/">&lt;p&gt;Hello!
+I have already added some introduction about reasons I have created this blog in &lt;code class=&quot;highlighter-rouge&quot;&gt;about&lt;/code&gt; section and, actually, I don’t know what can I add here 🌚&lt;/p&gt;
+
+&lt;p&gt;So, maybe, I will just start writing.&lt;/p&gt;
+
+&lt;p&gt;Today I still feel tired and I am not sure that I will finish my article today, but it would be great just to send it tonight. I also have to finish some labs for tomorrow’s final. So, I will start working now. I’ll prepare first class homemade cappuccino ☕️ and I will enjoy it while working with article and labs 😌.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="personal" />
+      
+
+      
+
+      
+        <summary type="html">Hello! I have already added some introduction about reasons I have created this blog in about section and, actually, I don’t know what can I add here 🌚</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>

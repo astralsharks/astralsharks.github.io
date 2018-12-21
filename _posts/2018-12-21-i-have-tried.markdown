@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I think it's workings!"
+title:  "I think it's working"
 date:   2018-12-21 23:39:34 +0300
 categories: misc
 ---

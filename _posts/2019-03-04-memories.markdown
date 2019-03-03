@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Errinerungen"
+title:  "Erinnerungen"
 date:   2019-03-04 00:20:00 +0300
 categories: daily
 ---
